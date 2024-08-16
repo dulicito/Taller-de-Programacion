@@ -8,7 +8,7 @@ la cursada se encuentra dividida en 3 modulos;
 * Concurrente
 
 en el siguiente enlace, encontraras material con respecto a la cursada
-[ 2.1 MATERIAL de taller de programacion !](https://drive.google.com/drive/folders/167IwarMDTjWRiTE0QZc5ruCZMnyvwFRt?usp=sharing)
+[ 2.1 MATERIAL de taller de programacion !]([https://drive.google.com/drive/folders/167IwarMDTjWRiTE0QZc5ruCZMnyvwFRt?usp=sharing](https://drive.google.com/drive/folders/1Zima9quYKk92Z_nyHdGYrtXfBaZAGnwu?usp=sharing))
 
 
 `⋅˚₊‧ ୨୧ ‧₊˚ ⋅ ¡ consejo ! : estudia en grupo, un ejercicio puede tener muchas resoluciones, y ademas la catedra siempre considerara una resolucion mejor que otra, y claro, no te rindas, es una materia facil pero va rapido, exitos ! 𖦹๋࣭⭑`
