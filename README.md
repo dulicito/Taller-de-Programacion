@@ -7,7 +7,8 @@ la cursada se encuentra dividida en 3 modulos;
 * Objetos
 * Concurrente
 
-en el siguiente enlace, encontraras material con respecto a la cursada
+en el siguiente enlace, encontraras material con respecto a la cursada:
+
 [MATERIAL TALLER DE PROGRAMACION](https://drive.google.com/drive/folders/1Zima9quYKk92Z_nyHdGYrtXfBaZAGnwu?usp=sharing)
 
 [CANAL DE YOUTUBE CON VIDEOS](https://www.youtube.com/@dulicito)
