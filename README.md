@@ -9,7 +9,10 @@ la cursada se encuentra dividida en 3 modulos;
 
 en el siguiente enlace, encontraras material con respecto a la cursada:
 
+[DRIVE CON MATERIAL](https://drive.google.com/drive/folders/1B_6dhrcYTVZpxa3xtXct0wrSqJuanxqV?usp=sharing)
+
 [DESCARGAR JAVA (.EXE INCLUIDO)](https://drive.google.com/drive/folders/1IO1V-xMZieM42y7pVn8XUfG9N3QDVQYx?usp=drive_link)
+
 [CANAL DE YOUTUBE CON VIDEOS](https://www.youtube.com/@dulicito)
 
 
