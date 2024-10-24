@@ -17,3 +17,5 @@ en el siguiente enlace, encontraras material con respecto a la cursada:
 
 
 `⋅˚₊‧ ୨୧ ‧₊˚ ⋅ ¡ consejo ! : estudia en grupo, un ejercicio puede tener muchas resoluciones, y ademas la catedra siempre considerara una resolucion mejor que otra, y claro, no te rindas, es una materia facil pero va rapido, exitos ! 𖦹๋࣭⭑`
+
+`consejo importante: agarrate a un ayudante de confianza y bombardealo con preguntas de practicas/parciales (objeto necesario: un mate con pitusas)`
