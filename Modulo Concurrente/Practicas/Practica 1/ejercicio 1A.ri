@@ -1,0 +1,33 @@
+programa prac1ej1
+procesos
+  proceso recorrerAvenida(E numAv: numero)
+  variables
+    cantFlores, esquinaVacia : numero
+  comenzar
+    cantFlores := 0
+    esquinaVacia := 0
+    Pos(numAv, 1)
+    repetir 99
+      mover
+      si HayFlorEnLaEsquina 
+        cantFlores := cantFlores + 1
+      sino
+        esquinaVacia := esquinaVacia + 1
+    Informar ('Cantidad de Flores encontradas en la avenida',cantFlores)
+    Informar('Cantidad de esquinas sin flores',esquinaVacia)
+  fin
+areas
+  ciudad: AreaC (1,1,100,100)
+robots
+  robot robot1
+  comenzar
+    recorrerAvenida(1)
+    recorrerAvenida(3)
+    recorrerAvenida(5)
+  fin
+variables
+  R_info: robot1
+comenzar
+  AsignarArea(R_info, ciudad)
+  Iniciar(R_info, 1,1)
+fin
